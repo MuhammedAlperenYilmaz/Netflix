@@ -56,6 +56,3 @@ Your goal is to automate the login process on the Netflix website to verify that
 
 7. **Cleanup**: Once the test is complete, ensure that the browser is closed using the `driver.quit()` method to free up resources.
 
-## License
-
-This project is licensed under the MIT License. Refer to the LICENSE file in the repository for details.
